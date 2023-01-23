@@ -1,0 +1,1 @@
+This respository was created to check the print command of an absolute path the current working directory.
